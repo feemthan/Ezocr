@@ -10,6 +10,7 @@ import torch.optim as optim
 import torch.utils.data
 from torch.cuda.amp import autocast, GradScaler
 import numpy as np
+import shutil
 
 from utils import CTCLabelConverter, AttnLabelConverter, Averager
 from dataset import hierarchical_dataset, AlignCollate, Batch_Balanced_Dataset
@@ -277,6 +278,11 @@ def train(opt, show_number = 2, amp=False):
                 model.state_dict(), f'./saved_models/{opt.experiment_name}/iter_{i+1}.pth')
 
         if i == opt.num_iter:
+            shutil.copyfile('./custom_example.py', '~/.EasyOCR/user_network/' + opt['experiment_name'] + 'py')
+            shutil.copyfile('./custom_example.yaml', '~/.EasyOCR/user_network/' + opt['experiment_name'] + 'yaml')
+
+            shutil.copyfile('./trainer/saved_models/' + opt['experiment_name'] + '/best_accuracy.pth', '~/.EasyOCR/model/' + opt['experiment_name'] + '.pth')
+
             print('end the training')
             sys.exit()
         i += 1
