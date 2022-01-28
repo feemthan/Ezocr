@@ -1,0 +1,45 @@
+[20/100] Train loss: 0.03254, Valid loss: 0.02332, Elapsed_time: 5.03132
+Current_accuracy : 89.412, Current_norm_ED  : 0.9904
+Best_accuracy    : 89.412, Best_norm_ED     : 0.9904
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Photographing Extracts    | Photographing Extracts    | 0.3665	True
+Heavenly Truman immorality | Heavenly Truman immorality | 0.2648	True
+--------------------------------------------------------------------------------
+[40/100] Train loss: 0.01408, Valid loss: 0.03128, Elapsed_time: 10.26976
+Current_accuracy : 90.588, Current_norm_ED  : 0.9912
+Best_accuracy    : 90.588, Best_norm_ED     : 0.9912
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Disband Kygo -            | Disband Kygo -            | 0.1424	True
+3516 Feral                | 3516 Feral                | 0.8536	True
+--------------------------------------------------------------------------------
+[60/100] Train loss: 0.00918, Valid loss: 0.02770, Elapsed_time: 14.12953
+Current_accuracy : 89.412, Current_norm_ED  : 0.9913
+Best_accuracy    : 90.588, Best_norm_ED     : 0.9913
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Streetfront Foxwoods grammarians | Streetfront Foxwoods grammarians | 0.4030	True
+Dayari                    | Dayari                    | 0.9373	True
+--------------------------------------------------------------------------------
+[80/100] Train loss: 0.00756, Valid loss: 0.03380, Elapsed_time: 17.92065
+Current_accuracy : 89.412, Current_norm_ED  : 0.9900
+Best_accuracy    : 90.588, Best_norm_ED     : 0.9913
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+BALTIC :                  | BALTIC :                  | 0.5162	True
+Lindsey_Coge Vaqueros nuns | Lindsey_Coge Vaqueros nuns | 0.0774	True
+--------------------------------------------------------------------------------
+[100/100] Train loss: 0.00531, Valid loss: 0.03470, Elapsed_time: 21.68339
+Current_accuracy : 89.412, Current_norm_ED  : 0.9900
+Best_accuracy    : 90.588, Best_norm_ED     : 0.9913
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Comte ages                | Comte ages                | 0.9736	True
+Corvallis Jakwob          | Corvallis Jakwob          | 0.7855	True
+--------------------------------------------------------------------------------
