@@ -43,3 +43,48 @@ Ground Truth              | Prediction                | Confidence Score & T/F
 Comte ages                | Comte ages                | 0.9736	True
 Corvallis Jakwob          | Corvallis Jakwob          | 0.7855	True
 --------------------------------------------------------------------------------
+[20/100] Train loss: 0.03049, Valid loss: 0.02915, Elapsed_time: 2.33785
+Current_accuracy : 89.412, Current_norm_ED  : 0.9914
+Best_accuracy    : 89.412, Best_norm_ED     : 0.9914
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Pygmalion                 | Pygmalion                 | 0.8640	True
+flexible /                | flexible /                | 0.5932	True
+--------------------------------------------------------------------------------
+[40/100] Train loss: 0.01596, Valid loss: 0.02743, Elapsed_time: 6.34869
+Current_accuracy : 88.235, Current_norm_ED  : 0.9904
+Best_accuracy    : 89.412, Best_norm_ED     : 0.9914
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Onkilon RMS |             | Onkilon RMS |             | 0.7617	True
+Carlotta                  | Carlotta                  | 0.6967	True
+--------------------------------------------------------------------------------
+[60/100] Train loss: 0.00832, Valid loss: 0.03306, Elapsed_time: 10.20159
+Current_accuracy : 89.412, Current_norm_ED  : 0.9914
+Best_accuracy    : 89.412, Best_norm_ED     : 0.9914
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Holiness Fallow           | Holiness Fallow           | 0.4852	True
+Disband Kygo -            | Disband Kygo ~            | 0.5292	False
+--------------------------------------------------------------------------------
+[80/100] Train loss: 0.00590, Valid loss: 0.02813, Elapsed_time: 13.95397
+Current_accuracy : 89.412, Current_norm_ED  : 0.9910
+Best_accuracy    : 89.412, Best_norm_ED     : 0.9914
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Highland " Weaver Overpowered | Highland " Weaver Overpowered | 0.1712	True
+Enough Wiener             | Enough Wiener             | 0.8840	True
+--------------------------------------------------------------------------------
+[100/100] Train loss: 0.00708, Valid loss: 0.02762, Elapsed_time: 17.69468
+Current_accuracy : 89.412, Current_norm_ED  : 0.9910
+Best_accuracy    : 89.412, Best_norm_ED     : 0.9914
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+LSSP Rules                | LSSP Rules                | 0.8306	True
+Swamy Carys Personified   | Swamy Carys Personified   | 0.3001	True
+--------------------------------------------------------------------------------

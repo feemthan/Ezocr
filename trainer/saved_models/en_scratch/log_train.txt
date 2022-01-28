@@ -1,0 +1,45 @@
+[2000/10000] Train loss: 1.61340, Valid loss: 1.40818, Elapsed_time: 246.44212
+Current_accuracy : 15.294, Current_norm_ED  : 0.7426
+Best_accuracy    : 15.294, Best_norm_ED     : 0.7426
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Jinglei @ Extensive       | Jiqglei @ Efensive        | 0.0222	False
+Name Commissioners        | Name commissiones         | 0.0627	False
+--------------------------------------------------------------------------------
+[4000/10000] Train loss: 0.01319, Valid loss: 1.60141, Elapsed_time: 496.34235
+Current_accuracy : 12.941, Current_norm_ED  : 0.7553
+Best_accuracy    : 15.294, Best_norm_ED     : 0.7553
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+KOHGILUYEH leasing        | KouGUvEH leasin           | 0.0415	False
+Innocent Westlake Aeschinus | Innocent Westake Aeschinus | 0.2164	False
+--------------------------------------------------------------------------------
+[6000/10000] Train loss: 0.00015, Valid loss: 1.60106, Elapsed_time: 745.05391
+Current_accuracy : 15.294, Current_norm_ED  : 0.7610
+Best_accuracy    : 15.294, Best_norm_ED     : 0.7610
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+31458 ~                   | 31458 <                   | 0.3683	False
+Dolby                     | polby                     | 0.6919	False
+--------------------------------------------------------------------------------
+[8000/10000] Train loss: 0.00008, Valid loss: 1.70579, Elapsed_time: 989.20840
+Current_accuracy : 14.118, Current_norm_ED  : 0.7585
+Best_accuracy    : 15.294, Best_norm_ED     : 0.7610
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Squad #faint Bangor       | Squad #oint Bangor        | 0.2443	False
+displace `                | displacek                 | 0.2188	False
+--------------------------------------------------------------------------------
+[10000/10000] Train loss: 0.00006, Valid loss: 1.74907, Elapsed_time: 1225.68558
+Current_accuracy : 14.118, Current_norm_ED  : 0.7623
+Best_accuracy    : 15.294, Best_norm_ED     : 0.7623
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+41267.2 *                 | L1c} 2 *                  | 0.1759	False
+Onkilon RMS |             | 'Dl                       | 0.0949	False
+--------------------------------------------------------------------------------
